@@ -13,9 +13,9 @@ Live coding for the sake of cooperative learning without proper collaboration ca
 
 
 #### Milestones
-- [Milestone 2: Definition & Related Work](milestone2.md)
-- [Milestone 3: Design Alternatives](milestone3.md)
-- [Milestone 4: Prototyping & Testing](milestone4.md)
+- [Milestone 2: Definition & Related Work](milestone2/index.md)
+- [Milestone 3: Design Alternatives](milestone3/index.md)
+- [Milestone 4: Prototyping & Testing](milestone4/index.md)
 
 
 #### Accknowledgement
