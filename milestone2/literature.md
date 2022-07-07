@@ -1,3 +1,8 @@
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 ## Related Work
 The history of collaborative programming can be traced back to decades [[1]](#1) when first time, collaboration was considered an essential part of programming learning. Since then, operational and applicable collaborative systems have been developed and widely used.
 
@@ -30,6 +35,7 @@ The table below indicates the significant features of existing solutions:
 | Pair Programming[[5]](#5)     | Programing learning challenges | Pair programming used as part of the learning  | Traditional windows programming considered | Principles of pair programming and Collaboration |
 | Open educational resources (OERs)[[6]](#6) | Comprehensive programming resource | Allowing students to update and customize materials | Can cause a conflict of interest among conventional teachers and students | Keep users in control|
 | Atelier [[7]](#7) | Collaborative programming tool | Autonomous design, creative thinking, multidisciplinary teams, tinkering, and reflection | Missing real-time programming  | Community of Practice |
+{: .tablelines}
 
 ### References
 <a id="1">1.</a> 
