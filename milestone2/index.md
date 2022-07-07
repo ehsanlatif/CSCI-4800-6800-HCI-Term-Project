@@ -28,6 +28,6 @@ Live coding for cooperative learning without true collaboration can create code 
 Collaborative writing without history and log maintenance can cause a lack of transparency and poor engagement of collaborators.
 
 #### Content
-- [Introduction](milestone2/introduction.md)
-- [Related Work](milestone2/literature.md)
-- [Proposed Solution](milestone2/solution.md)
+- [Introduction](introduction.md)
+- [Related Work](literature.md)
+- [Proposed Solution](solution.md)
