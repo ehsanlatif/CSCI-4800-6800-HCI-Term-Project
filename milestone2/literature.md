@@ -31,7 +31,7 @@ The table below indicates the significant features of existing solutions:
 | Open educational resources (OERs)[[6]](#6) | Comprehensive programming resource | Allowing students to update and customize materials | Can cause a conflict of interest among conventional teachers and students | Keep users in control|
 | Atelier [[7]](#7) | Collaborative programming tool | Autonomous design, creative thinking, multidisciplinary teams, tinkering, and reflection | Missing real-time programming  | Community of Practice |
 
-## References
+### References
 <a id="1">1.</a> 
 John T. Nosek. 1998. The case for collaborative programming. Commun. ACM 41, 3 (March 1998), 105–108. https://doi.org/10.1145/272287.272333
 
