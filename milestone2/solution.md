@@ -9,6 +9,9 @@ To test effectiveness of our prototype, we can use methods similar to those used
 
 We  have two groups of students in programming learning sessions, one with our solution software, and the other group using a static learning environment. We administer a test before the learning session to get a baseline measurement of the students’ programming knowledge as well as a survey on students’ preferences in learning styles. After the learning sessions, we administer the same assessments to measure the difference in knowledge gained as well as any change in student preferences. These assessments allow us to consider numerical data from differences in test scores as well any change in sentiment towards live coding learning environments, both of which are important factors in judging the success of the solution.
 
+<img src="milestone2/evidence1.png" width="600" style="display: block; margin-right: auto; margin-left: auto;">
+<img src="milestone2/evidence2.png" width="600" style="display: block; margin-right: auto; margin-left: auto;">
+
 ### References
 <a id="1">1.</a>
 Charlie McDowell, Linda Werner, Heather E. Bullock, and Julian Fernald. 2006. Pair programming improves student retention, confidence, and program quality. Commun. ACM 49, 8 (August 2006), 90–95. https://doi-org.proxy-remote.galib.uga.edu/10.1145/1145287.1145293
