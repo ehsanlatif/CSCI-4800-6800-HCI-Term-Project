@@ -20,7 +20,9 @@ Collaborative writing without history and log maintenance can cause a lack of tr
  
 ### Properties, affordances, and signifiers
 Properties:  Internet network, a pc or laptop, or smartphone, and an e-learning platform can be counted as properties. The e-learning platform or website's visual properties could be anything in terms of its color and location of icons, etc. Based on the website designer strategies. Having an account on the target website is another property. 
+
 Affordances: Logging in to the website and participating in an online course and then trying to have an online collaboration like live coding are affordances. 
+
 Signifiers: E-learning website with lack of online collaboration tool. 
  
 ### Seven Stages of Action
@@ -29,12 +31,16 @@ A theoretical framework that helps us create conceptual models to investigate hu
 The goal is to be able to collaborate online with other students and teachers in an e-learning platform. 
 #### Execution 
 Plan: The user is excited to learn a new topic or master a skill like coding. This can be either a personal interest or maybe a project is assigned to him at his work and he needs to improve his knowledge or he is a student and needs the knowledge in a specific field. The user decides which e-learning platform to use. Also, this is the case that maybe the course in which the user participated in may not be available via a specific e-learning website/platform.   
+
 Specify: The user decides to participate in an online Java language course. But the course uses an e-learning website that does not support online collaboration tools and then live to code. 
+
 Perform: The user register for the course and download and install the required Java IDE recommended in the course and e-learning tool as well. And then starts working on the e-learning tool. 
 
 #### Evaluation
 Perceive: The user thinks the e-learning tool is user-friendly and easy to learn the tool and work with. He understands basic concepts of Java language but when it comes to solving some problems during the class as an exercise, he has difficulty. 
+
 Interpret: the user believes that if the e-learning platform embedded any online collaborative tool he had the chance to code live and participate with his classmates and instructor so in this way he could benefit from others' help and hints. 
+
 Compare: The user has heard of some other tools with online collaboration features and asked his friends to form a group to do their coding assignments using that tool at the same time and he figured out it is helpful for him to learn with live coding. 
  
 ### Potential Users
