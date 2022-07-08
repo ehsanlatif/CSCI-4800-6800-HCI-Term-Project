@@ -2,7 +2,7 @@
 In this milestone, we will clearly define the computing-related task/problem, identify existing solutions to that or similar tasks/problems,
 propose a potential solution, and summarize that work in a recorded video presentation.
 
-### Introduction
+### Background
 Collaborative learning is when two or more people learn or attempt to learn something together.
 Unlike individual learning, people engaged in collaborative learning.
 
