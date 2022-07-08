@@ -41,28 +41,28 @@ The table below indicates the significant features of existing solutions:
   </thead>
   <tbody>
     <tr>
-      <td>COOL[[4]](#4)</td>
+      <td>COOL [4]</td>
       <td>Peer-learning </td>
       <td>Easy programming, Fill gender gap </td>
       <td>One way of programming practice</td>
       <td>Seek universal usability</td>
     </tr>
     <tr>
-      <td>Pair Programming[[5]](#5)</td>
+      <td>Pair Programming [5]</td>
       <td>Programing learning challenges</td>
       <td>Pair programming used as part of the learning</td>
       <td>Traditional windows programming considered</td>
       <td>Principles of pair programming and Collaboration</td>
     </tr>
     <tr>
-      <td>Open educational resources (OERs)[[6]](#6)</td>
+      <td>Open educational resources (OERs) [6]</td>
       <td>Comprehensive programming resource</td>
       <td>Allowing students to update and customize materials</td>
       <td>Can cause a conflict of interest among conventional teachers and students</td>
       <td>Keep users in control</td>
     </tr>
     <tr>
-      <td>Atelier [[7]](#7)</td>
+      <td>Atelier [7]</td>
       <td>Collaborative programming tool</td>
       <td>Autonomous design, creative thinking, multidisciplinary teams, tinkering, and reflection</td>
       <td>Issing real-time programming</td>
