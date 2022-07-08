@@ -4,6 +4,8 @@ Much of the literature has indicated the considerable extent to which these tech
  
 In another word, collaborative learning is when two or more people learn or attempt to learn something together. Unlike individual learning, people engaged in collaborative learning. Capitalize on one another's resources and skills.
 
+![Untitled](https://user-images.githubusercontent.com/93283817/178083027-25f6bf4b-de1e-4f28-9d11-96875e0750b3.png)
+
 ### Properties, affordances, and signifiers
 **Properties:**  Internet network, a pc or laptop, or smartphone, and an e-learning platform can be counted as properties. The e-learning platform or website's visual properties could be anything in terms of its color and location of icons, etc. Based on the website designer strategies. Having an account on the target website is another property. 
 
