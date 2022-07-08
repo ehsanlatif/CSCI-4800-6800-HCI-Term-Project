@@ -21,7 +21,7 @@ Collaborative writing without history and log maintenance can cause a lack of tr
 ### Properties, affordances, and signifiers
 Properties:  Internet network, a pc or laptop, or smartphone, and an e-learning platform can be counted as properties. The e-learning platform or website's visual properties could be anything in terms of its color and location of icons, etc. Based on the website designer strategies. Having an account on the target website is another property. 
 Affordances: Logging in to the website and participating in an online course and then trying to have an online collaboration like live coding are affordances. 
-Signifiers: E-learning website with a lack of online collaboration tool. 
+Signifiers: E-learning website with lack of online collaboration tool. 
  
 ### Seven Stages of Action
 A theoretical framework that helps us create conceptual models to investigate human actions. It describes the relationship between goals and the physical actions to achieve those goals. 
@@ -38,5 +38,5 @@ Interpret: the user believes that if the e-learning platform embedded any online
 Compare: The user has heard of some other tools with online collaboration features and asked his friends to form a group to do their coding assignments using that tool at the same time and he figured out it is helpful for him to learn with live coding. 
  
 ### Potential Users
-Both students and instructors can be counted as potential users of the online collaborative tool. As it gives all of them the chance to code online which helps the instructor to teach and guide the students more effectively and students can collaborate with each other and their teacher as well. When it comes to talking about why online collaboration matters, we can refer to research have been conducted in this field and study their outcomes.  
+Both students and instructors can be counted as potential users of the online collaboration tool. As it gives all of them the chance to code online which helps the instructor to teach and guide the students more effectively and students can collaborate with each other and their teacher as well. When it comes to talking about why online collaboration matters, we can refer to research have been conducted in this field and study their outcomes.  
 Technologies with collaborative affordances can play in the development of skills in metacognition, planning, writing, and creativity. In one higher education study, Wang, Ching-Huang, Yueh-Chiu, and Chun-Fu (2010, p. 444) found that “through [web-enabled] social dialogue, students explored more ideas and constructed further knowledge” than in traditional writing and planning tasks, resulting in higher levels of “autonomous learning” and “self-confidence”. In the same study, the authors explored the extent to which online collaboration with Web 2.0 applications could enhance learning within the Cooperative Learning framework (Kagan & Kagan, 1994, p. 446), finding that the participants using Web 2.0 technologies scored higher in the areas of “content knowledge, group processing, social skills” and even “face-to-face interaction”.
