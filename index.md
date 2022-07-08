@@ -2,7 +2,7 @@
 
 **Project for CSCI 4800/6800 Human-Computer Interaction (HCI)**
 
-![logo](logo.png)
+<img src="logo.png" width="600" style="display: block; margin-right: auto; margin-left: auto;">
 
 ### Collaborators:
 1. Ehsan Latif (ehsan.latif@uga.edu)
