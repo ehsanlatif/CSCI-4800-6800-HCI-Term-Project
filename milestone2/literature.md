@@ -35,7 +35,47 @@ The table below indicates the significant features of existing solutions:
 | Pair Programming[[5]](#5)     | Programing learning challenges | Pair programming used as part of the learning  | Traditional windows programming considered | Principles of pair programming and Collaboration |
 | Open educational resources (OERs)[[6]](#6) | Comprehensive programming resource | Allowing students to update and customize materials | Can cause a conflict of interest among conventional teachers and students | Keep users in control|
 | Atelier [[7]](#7) | Collaborative programming tool | Autonomous design, creative thinking, multidisciplinary teams, tinkering, and reflection | Missing real-time programming  | Community of Practice |
-{: .tablelines}
+<table class="tablelines">
+  <thead>
+    <tr>
+      <th>Solution</th>
+      <th>Problem Addressed </th>
+      <th>Pros</th>
+      <th>Cons</th>
+      <th>Guidelines/Principles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>COOL[[4]](#4)</td>
+      <td>Peer-learning </td>
+      <td>Easy programming, Fill gender gap </td>
+      <td>One way of programming practice</td>
+      <td>Seek universal usability</td>
+    </tr>
+    <tr>
+      <td>T</td>
+      <td>T</td>
+      <td>T</td>
+      <td>T</td>
+      <td>T</td>
+    </tr>
+    <tr>
+      <td>T</td>
+      <td>T</td>
+      <td>T</td>
+      <td>T</td>
+      <td>T</td>
+    </tr>
+    <tr>
+      <td>T</td>
+      <td>T</td>
+      <td>T</td>
+      <td>T</td>
+      <td>T</td>
+    </tr>
+  </tbody>
+</table>
 
 ### References
 <a id="1">1.</a> 
