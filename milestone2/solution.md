@@ -4,12 +4,15 @@ Create a program/application that allows for live-time coding. The app will have
 In addition to having the program afford interacting between instructors and students, it is also important that it affords interacting between students and other students. Paired coding is an important feature as pairing “bolsters course completion and consequently course pass rates, and contributes to greater persistence in computer science-related majors.”[[1]](#1) For peer-to-peer cases, all of the peers will have the administrator role. They will be able to edit, review, and leave feedback to other peer’s codes. All of this will be done in real-time, and users will be able to use this program efficiently with all of the tools provided. Collaborative coding process will definitely become easier with the implementation of this tool.
 
 An important facet of this program is that it has the necessary collection of features, while still remaining visually uncomplicated. When students view the instructor’s coding window, it should not be very different from the student’s own coding window. Keeping this sort of consistency and familiarity between these two views prevents adding any complexity to the learning process. This type of precaution aids in reducing the “extraneous cognitive load.”[[2]](#2)
+
 ### Measuring Success
 To test effectiveness of our prototype, we can use methods similar to those used in previous studies on the effectiveness of live coding[[3]](#3): 
 
 We  have two groups of students in programming learning sessions, one with our solution software, and the other group using a static learning environment. We administer a test before the learning session to get a baseline measurement of the students’ programming knowledge as well as a survey on students’ preferences in learning styles. After the learning sessions, we administer the same assessments to measure the difference in knowledge gained as well as any change in student preferences. These assessments allow us to consider numerical data from differences in test scores as well any change in sentiment towards live coding learning environments, both of which are important factors in judging the success of the solution.
 
 <img src="evidence1.png" width="500" style="display: block; margin-right: auto; margin-left: auto;"> <img src="evidence2.png" width="500" style="display: block; margin-right: auto; margin-left: auto;">
+
+This is an example of how success will be measured. These results are from a different study [[3]](#3) that compare static coding (instructors never typed, but instead viewed, compiled, and executed code examples) and live-coding. The results show that live-coding is way more effective. Based off of these results, we can measure the success of our program, and we are sure that the results will show better output than the previous studies.
 
 ### References
 <a id="1">1.</a>
