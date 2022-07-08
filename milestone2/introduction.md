@@ -35,11 +35,19 @@ Technologies with collaborative affordances can play in the development of skill
 
 ### References
 [1]  M, Stevenson & J. G. Hedberg (2013) Learning and design with online real-time collaboration, Educational Media International, 50:2, 120-134.
+
 [2] Kittur, A. and R. Kraut (2008) “Harnessing the wisdom of crowds in wikipedia: quality through coordination,” in Proceedings of Computer Supported Cooperative Work, pp. 37-46. 
+
 [3] Cavoukian, A. (2000). Should the OECD guidelines apply to personal data online?A Report to the 22nd International Conference of Data Protection Commissioners, Venice.
+
 [4] Anderson, T., & Elloumi, F. (Eds.). (2004). Theory and practice of online learning. Athabasca: Athabasca University.
+
 [5] Burns, M. (2005). Tools for the mind. Educational Leadership, 63,48–53.
+
 [6] O’Reily, T. (2005). What is Web 2.0– O’Reilly media. Retrieved August 27, 2011, from http://oreilly.com/web2/archive/what-is-web-20.html
+
 [7] Prensky, M. (2005). Listen to the natives. Educational Leadership, 63,8–13.
+
 [8] Wang, J., Ching-Huang, W., Yueh-Chiu, F., & Chun-Fu, L. (2010). Benefits of Web 2.0 in the college writing classroom. International Journal of Learning, 17, 439–450.
+
 [9] Kagan, S., & Kagan, M. (1994). Cooperative learning. San Clemente, CA: Kagan.
