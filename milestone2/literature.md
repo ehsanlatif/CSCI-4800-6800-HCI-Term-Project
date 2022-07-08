@@ -29,12 +29,6 @@ Live programming environments add additional liveness to complement standard fea
 
 ### Comparison Table
 The table below indicates the significant features of existing solutions:
-| Solution      |   Problem Addressed   | pros  | Cons | Guidelines/Principles |
-| ------------------ |---------------------- | ----- | ---- | --------------------- |
-| COOL[[4]](#4)         | Peer-learning         | Easy programming, Fill gender gap | One way of programming practice | Seek universal usability |
-| Pair Programming[[5]](#5)     | Programing learning challenges | Pair programming used as part of the learning  | Traditional windows programming considered | Principles of pair programming and Collaboration |
-| Open educational resources (OERs)[[6]](#6) | Comprehensive programming resource | Allowing students to update and customize materials | Can cause a conflict of interest among conventional teachers and students | Keep users in control|
-| Atelier [[7]](#7) | Collaborative programming tool | Autonomous design, creative thinking, multidisciplinary teams, tinkering, and reflection | Missing real-time programming  | Community of Practice |
 <table class="tablelines">
   <thead>
     <tr>
@@ -54,25 +48,25 @@ The table below indicates the significant features of existing solutions:
       <td>Seek universal usability</td>
     </tr>
     <tr>
-      <td>T</td>
-      <td>T</td>
-      <td>T</td>
-      <td>T</td>
-      <td>T</td>
+      <td>Pair Programming[[5]](#5)</td>
+      <td>Programing learning challenges</td>
+      <td>Pair programming used as part of the learning</td>
+      <td>Traditional windows programming considered</td>
+      <td>Principles of pair programming and Collaboration</td>
     </tr>
     <tr>
-      <td>T</td>
-      <td>T</td>
-      <td>T</td>
-      <td>T</td>
-      <td>T</td>
+      <td>Open educational resources (OERs)[[6]](#6)</td>
+      <td>Comprehensive programming resource</td>
+      <td>Allowing students to update and customize materials</td>
+      <td>Can cause a conflict of interest among conventional teachers and students</td>
+      <td>Keep users in control</td>
     </tr>
     <tr>
-      <td>T</td>
-      <td>T</td>
-      <td>T</td>
-      <td>T</td>
-      <td>T</td>
+      <td>Atelier [[7]](#7)</td>
+      <td>Collaborative programming tool</td>
+      <td>Autonomous design, creative thinking, multidisciplinary teams, tinkering, and reflection</td>
+      <td>Issing real-time programming</td>
+      <td>Community of Practice</td>
     </tr>
   </tbody>
 </table>
