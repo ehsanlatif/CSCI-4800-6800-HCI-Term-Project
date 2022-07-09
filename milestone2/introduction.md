@@ -71,5 +71,4 @@ Wang, J., Ching-Huang, W., Yueh-Chiu, F., & Chun-Fu, L. (2010). Benefits of Web 
 <a id="9">9.</a>
 Kagan, S., & Kagan, M. (1994). Cooperative learning. San Clemente, CA: Kagan.
 
-#### Next
-- [Related Work](literature.md)
+[Next: Related Work >](literature.md)
