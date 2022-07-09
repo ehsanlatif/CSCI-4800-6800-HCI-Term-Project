@@ -23,3 +23,5 @@ Sweller, J., van Merriënboer, J.J.G. & Paas, F. Cognitive Architecture and Inst
 
 <a id="3">3.</a>
 Marc J. Rubin. 2013. The effectiveness of live-coding to teach introductory programming. In Proceeding of the 44th ACM technical symposium on Computer science education (SIGCSE '13). Association for Computing Machinery, New York, NY, USA, 651–656. https://doi-org.proxy-remote.galib.uga.edu/10.1145/2445196.2445388
+
+[Next: Demo >](demo.md)
