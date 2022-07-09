@@ -98,3 +98,5 @@ Tomas Petricek. 2019. Histogram: You have to know the past to understand the pre
 
 <a id="9">9.</a>
 Hans J. Scholl. 2019. Overwhelmed by the brute force of nature: First response management in the wake of a catastrophic incident. In EGOV 2019, I. Lindgren et al. (Ed.). Vol. LNCS 11685. Springer Nature Switzerland AG, 105–124.
+
+[Next: Solution >](solution.md)
