@@ -31,3 +31,4 @@ Collaborative writing without history and log maintenance can cause a lack of tr
 - [Introduction](introduction.md)
 - [Related Work](literature.md)
 - [Proposed Solution](solution.md)
+- [Summary Video](demo.md)
