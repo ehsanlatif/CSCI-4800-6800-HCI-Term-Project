@@ -57,3 +57,9 @@ This section contains decomposition of user stories based allowed tasks/activiti
 > **Reason fo relavence:** Programmers often have to work on a project with other programmers to develop a working program. Currently, there is not a great way for programmers to work on the project together at the same time. Therefore, our solution will offer a quick and efficient way for programmers to work on their projects and produce an output without being hindered by the lack of live coding.
 ##### Irrelavent User Stories:
 2. As a pogrammer, I want to Supervise and intern idea so that I can manage team internally
+
+#### Content
+- [User Experience Requirements](requirements.md)
+- [Ideation and Preliminary Designs](ideation.md)
+- [Detailed Design](design.md)
+- [Summary Video](demo.md)
