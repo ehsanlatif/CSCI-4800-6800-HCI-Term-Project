@@ -1,3 +1,3 @@
 ## Demo
 
-[![Watch the video](../images/main_screen.png)](https://youtu.be/UyZp5cku1LY)
+[![Watch the video](../images/main_screen.png)](https://youtu.be/KgYDOEDQkI0)
