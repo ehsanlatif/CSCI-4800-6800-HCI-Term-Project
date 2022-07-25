@@ -12,7 +12,7 @@ This section contains decomposition of user stories based allowed tasks/activiti
 #### Task 1. Creation of collaborative teams
 ##### Relavent User Story: 
 1. As a teacher, I want to be able to create a team and collaborate with my classmates in a group.
-> **Reason for relavence:** To assign a project to each group of students and ask them to do that as a team. Also, I want to form groups of students and consider a leader for each team. The leader is more talented in that course/topic  and is responsible for answering his/her teammates' questions and helping them.
+> **Reason for relavence:** To assign a project to each group of students and ask them to do that as a team. Also, I want to form groups of students and consider a leader for each team. The leader is more talented in that course/topic  and is responsible for answering his/her teammates' questions and helping them[[1]](#1).
 ##### Irrelavent User Stories:
 2. As a teacher, I want to create programming classes for students so that students can access them for learning. 
 3. As a teacher, I want to create and give out practice problems so that students learn about a specific topic.
@@ -20,7 +20,7 @@ This section contains decomposition of user stories based allowed tasks/activiti
 #### Task 2. Providance of Suggestion/Comments for individual user or a team
 ##### Relavent User Story: 
 1. As a teacher, I want to be able to put comments for students individually or for the whole class.
-> **Reason fo relavence:** To be able to give them hint individually if they need help or if most of them are making the same mistake be able to hint all of them.
+> **Reason fo relavence:** To be able to give them hint individually if they need help or if most of them are making the same mistake be able to hint all of them[[1]](#1).
 ##### Irrelavent User Stories: 
 2. As a teacher I want to able to insert grades.
 3. As a teacher I want t obe able to hide previous or future cources from students. 
@@ -36,7 +36,7 @@ This section contains decomposition of user stories based allowed tasks/activiti
 #### Task 4. View comments and following instructions
 ##### Relavent User Story: 
 1. As a student, I want to ask the teacher questions privately so I can resolve my issues comfortably.
-> **Reason fo relavence:** It helps teacher-student interaction and bolsters the learning capability of students as some students are shy to ask during class.
+> **Reason fo relavence:** It helps teacher-student interaction and bolsters the learning capability of students as some students are shy to ask during class[[1]](#2).
 ##### Irrelavent User Stories:
 2. As a student, I want to see my instructor's written code so that I will compare mine for validation.
 3. As a user, I want to register with the system so that I can access all features of the system.
@@ -45,7 +45,7 @@ This section contains decomposition of user stories based allowed tasks/activiti
 #### Task 5. Private question answering
 ##### Relavent User Story: 
 1. As a student, I want to see my instructor's comments in real-time on my code so that I can improvise my code accordingly.
-> **Reason fo relavence:** To have real-time feedback will help students to reduce the burden of after-class questioning and allow students to be on the track during the session.
+> **Reason fo relavence:** To have real-time feedback will help students to reduce the burden of after-class questioning and allow students to be on the track during the session[[2]](#2).
 ##### Irrelavent User Stories:
 2. As a student I want to search for specific teacher and course so that I will get to my desired one.
 3. As a student, I want to get unenrolled from the course after learning so that I will have only relevant courses in my  portal.
@@ -54,9 +54,20 @@ This section contains decomposition of user stories based allowed tasks/activiti
 #### Task 6. Code Sharing
 ##### Relavent User Story: 
 1. As a programmer working for a company, I want to be able to share my work with my coworkers so that we can work on project together at the same time, offering feedback and comments.
-> **Reason fo relavence:** Programmers often have to work on a project with other programmers to develop a working program. Currently, there is not a great way for programmers to work on the project together at the same time. Therefore, our solution will offer a quick and efficient way for programmers to work on their projects and produce an output without being hindered by the lack of live coding.
+> **Reason fo relavence:** Programmers often have to work on a project with other programmers to develop a working program. Currently, there is not a great way for programmers to work on the project together at the same time. Therefore, our solution will offer a quick and efficient way for programmers to work on their projects and produce an output without being hindered by the lack of live coding[[3]](#3).
 ##### Irrelavent User Stories:
 2. As a pogrammer, I want to Supervise and intern idea so that I can manage team internally.
+
+
+### References
+<a id="1">1.</a>
+Charlie McDowell, Linda Werner, Heather E. Bullock, and Julian Fernald. 2006. Pair programming improves student retention, confidence, and program quality. Commun. ACM 49, 8 (August 2006), 90–95. https://doi-org.proxy-remote.galib.uga.edu/10.1145/1145287.1145293
+
+<a id="2">2.</a>
+Sweller, J., van Merriënboer, J.J.G. & Paas, F. Cognitive Architecture and Instructional Design: 20 Years Later. Educ Psychol Rev 31, 261–292 (2019). https://doi.org/10.1007/s10648-019-09465-5
+
+<a id="3">3.</a>
+Marc J. Rubin. 2013. The effectiveness of live-coding to teach introductory programming. In Proceeding of the 44th ACM technical symposium on Computer science education (SIGCSE '13). Association for Computing Machinery, New York, NY, USA, 651–656. https://doi-org.proxy-remote.galib.uga.edu/10.1145/2445196.2445388
 
 #### Content
 - [User Experience Requirements](requirements.md)
