@@ -32,7 +32,7 @@ In this section we will provide ideation for our relavent user stories.
 #### UserStory 4. As a student, I want to ask the teacher questions privately so I can resolve my issues comfortably.
 1. Comment box on the side of coding panel.
 2. Replicate teacher's code, mentioned in the comment to the students coding panel.
-3. highlight  code segment under discussion
+3. highlight  code segment under discussion.
 ![design4](wireframes/userstory4.png)
 
 #### UserStory 5. As a student, I want to see my instructor's comments in real-time on my code so that I can improvise my code accordingly.
@@ -43,7 +43,7 @@ In this section we will provide ideation for our relavent user stories.
 
 #### UserStory 6. As a programmer working for a company, I want to be able to share my work with my coworkers so that we can work on project together at the same time, offering feedback and comments.
 1. Provide feedback without disrupting other's work.
-2. Chat function or some type of communication function
+2. Chat function or some type of communication function.
 ![design6](wireframes/userstory6.png)
 
 ### Preliminary Designs
