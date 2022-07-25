@@ -7,8 +7,7 @@
 ### Collaborators:
 1. Ehsan Latif (ehsan.latif@uga.edu)
 2. Afsaneh Shams (as14847@uga.edu)
-3. Jerel Harris (jkh11360@uga.edu)
-4. Peter Lim (ml84114@uga.edu)
+3. Peter Lim (ml84114@uga.edu)
 
 ### Problem of Study
 Live coding for the sake of cooperative learning without proper collaboration can lead to code cramming without understanding. Collaborative writing without history and log maintenance can cause a lack of transparency and poor engagement of collaborators.
