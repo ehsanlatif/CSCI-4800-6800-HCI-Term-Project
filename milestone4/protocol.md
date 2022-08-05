@@ -8,7 +8,7 @@
 #### 1.2	Applicable testing methodology:
 As it is a tool that state papers use, a group of students is asked to use the tool device, and the evolution is based on the pre-test and post-test factors and results. This method is known as the experimental group testing method in some papers. Group testing is an instructional tool incorporating a group component to traditional individual testing to assess student learning. In particular, students form groups to retake or part of the exam—grades from these combined and group scores [[1]](#1).
 
-**Reason** In most education settings, assessments are designed to measure a student’s mastery of materials without help from peers or other resources. As an alternative to this traditional format, a group collaboration component can be added, during which students work together to answer the same questions. Students’ final grade is a combination of individual and group test results. The key benefits of the group exam technique include:
+**Reason:** In most education settings, assessments are designed to measure a student’s mastery of materials without help from peers or other resources. As an alternative to this traditional format, a group collaboration component can be added, during which students work together to answer the same questions. Students’ final grade is a combination of individual and group test results. The key benefits of the group exam technique include:
 -	Students LEARN at the same time when they are assessed [[2,3]](#3).
 -	Students receive immediate feedback on how they did on the test
 -	Students are motivated to engage in discussion, debate, and peer-instruction activities
