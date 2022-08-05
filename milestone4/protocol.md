@@ -21,11 +21,29 @@ As a result, experiments show collaborative learning has extra features compared
 
 
 ### 2.	Testing Procedure
-To test the solution's effectiveness, we will conduct two different tests. The first test will have two groups of at least second-year students in college learning how to code; one group will learn how to code using our tool while the other will learn without. The reason why it is essential to have a group of students who have experience in coding for both groups is to avoid any confounding variables that might arise during the testing phase (e.g., differences in each student’s learning ability) and to measure the effectiveness of the tool by comparing test scores from the past. Before the tests are conducted, we will ensure that all the test subjects (students and teachers) are aware of the test and understand the purpose of the test. The test will continue for at least one semester of the academic calendar to ensure that the data collected is accurate. Throughout the testing period, we will check our tool's effectiveness by collecting test scores and project grades [[1]](#1).
+To test the solution's effectiveness, we will conduct two following tests.
+1. The first test will have two groups of at least second-year students in college learning how to code.
+2. For the second test, we will send out emails to tech companies asking for their cooperation with the test with their programmers.
 
-With the collected data, we can conduct an exploratory analysis; we will compare the rates of each group. We will compare both student groups' previous computer science class grades with the current ones. If the tool proves effective, the first group will improve more than the second group. One important thing to mention is that the comparison will never be made between the groups; it will only be done within the same group to assure the accuracy of our tool/testing procedure. 
+### Informed consent
+Before the tests are conducted, we will ensure that all the test subjects (students and teachers) are aware of the test and understand the purpose of the test. The test will continue for at least one semester of the academic calendar to ensure that the data collected is accurate. Throughout the testing period, we will check our tool's effectiveness by collecting test scores and project grades [[1]](#1).
+We will let them know how the testing will be done and ask volunteers to participate in our studies. The programmers who agree to participate in the survey will be divided into two groups and assigned a collaborative project. The first group will use our tool while the other group will work as they have before.
 
-For the second test, we will send out emails to tech companies asking for their cooperation with the test with their programmers. We will let them know how the testing will be done and ask volunteers to participate in our studies. The programmers who agree to participate in the survey will be divided into two groups and assigned a collaborative project. The first group will use our tool while the other group will work as they have before. To measure the effectiveness of our agency, we will calculate the time taken for both groups to finish the project and ask the first group if they felt the thdeviceol was helpful. If the device proves effective, the first group’s time to complete will be shorter, and the programmers in that group will tell whether they felt better working with our tool. The pandemic will not hinder our testing procedure for both tests, as all the data and the testing can be done online. The device is a website that students and programmers can utilize for their work. Therefore, the testing procedure will be safe during the pandemic.
+### Procedure
+One group will learn how to code using our tool while the other will learn without. The reason why it is essential to have a group of students who have experience in coding for both groups is to avoid any confounding variables that might arise during the testing phase (e.g., differences in each student’s learning ability) and to measure the effectiveness of the tool by comparing test scores from the past. 
+
+
+#### Data collection
+- We collect data about user's background, field of interest and programming experience.
+- We collect user's time per activity, efficiency by comparing output and standard programs.
+- To measure the effectiveness of our agency, we will calculate the time taken for both groups to finish the project and ask the first group if they felt the program was helpful.
+Collected data will be stored in private cloud storage for limited agreed period of study and analysed using cloud statistics tool.
+
+#### Study data analysis
+With the collected data, we can conduct an exploratory analysis; we will compare the rates of each group. We will compare both student groups' previous computer science class grades with the current ones. If the tool proves effective, the first group will improve more than the second group. One important thing to mention is that the comparison will never be made between the groups; it will only be done within the same group to assure the accuracy of our tool/testing procedure.  If the device proves effective, the first group’s time to complete will be shorter, and the programmers in that group will tell whether they felt better working with our tool.
+
+#### Testing procedure during a pandemic
+The pandemic will not hinder our testing procedure for both tests, as all the data and the testing can be done online. The device is a website that students and programmers can utilize for their work. Therefore, the testing procedure will be safe during the pandemic.
 
  
 ### 2. References
