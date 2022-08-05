@@ -44,7 +44,7 @@ We have created prototypes on Figma which can be accessed by clicking [here](htt
 **Statement:** As a student, I want to see my instructor's comments in real-time on my code so that I can improvise my code accordingly.
 
 **Description** During programming, students shall see teachers comments and follow instructions, prototype has comment section which is visible to each student where all class members including teacher can discuss about specific prorgamming problem. System allows them to reference code lines for discussion in the comment section.
-[![Watch the video](../images/main_page_us5.png)](https://youtu.be/bm6DTJYqnWI)
+[![Watch the video](../images/main_page_us5.png)](https://youtu.be/qGIaARlpx5I)
 
 #### UserStory 6
 **Statement** As a student, I want to ask the teacher questions privately so I can resolve my issues comfortably.
@@ -52,7 +52,7 @@ We have created prototypes on Figma which can be accessed by clicking [here](htt
 **Description** On the coding portal, if the student has to ask questions, they shall navigate to the QnA portal and ask questions, in which he or they can also refer to the relevant code segment. Suppose a student requires more attention or hesitated about something to ask in a group. In that case, he shall use the QnA portal to ask privet questions. the system allows users to ask questions synchronously during the course sessions.
 
 **Demo**
-[![Watch the video](../images/main_page_us6.png)](https://youtu.be/qGIaARlpx5I)
+[![Watch the video](../images/main_page_us6.png)](https://youtu.be/bm6DTJYqnWI)
 
 
 
