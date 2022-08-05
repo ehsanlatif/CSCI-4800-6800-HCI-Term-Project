@@ -18,13 +18,13 @@ We have created prototypes on Figma which can be accessed by clicking [here](htt
 **Statement** As a teacher, I want to be able to create a team and collaborate with my classmates in a group.
 
 **Description** Teacher should be able to select a student among all students to send him a comment or send a comment to all of the students to select all or every one.  
-![mockup1](mockups/userstory1.png)
+[![Watch the video](../images/main_page_us1.png)](https://youtu.be/U8gTMGW_6Mw)
 
 #### UserStory 2
 **Statement** As a teacher, I want to be able to put comments for students individually or the whole class.
 
 **Description** In order to create group projects and ask students to do a project as a team the teacher needs to create breakout groups. 
-![mockup2](mockups/userstory2.png)
+[![Watch the video](../images/main_page_us2.png)](https://youtu.be/wHZKQqzBAXg)
 
 #### UserStory 3
 **Statement** As a teacher, I want to see all of the student's screens to monitor their progress and see if part of the assignment needs clarification.
