@@ -32,14 +32,14 @@ To restate this userstory based on the prototype design, first let me mention th
 **Statement** As a teacher, I want to see all of the student's screens to monitor their progress and see if part of the assignment needs clarification.
 
 **Description** Similar to Zoom’s function when sharing cameras in a big class setting, all of the student’s screens will be shared in the main screen. Then, the teacher can click on each student’s screen to leave feedback to the students.
-![mockup3](mockups/userstory3.png)
+[![Watch the video](../images/main_page_us3.png)](https://youtu.be/QbwuRnW79Ck)
 
 
 #### UserStory 4
 **Statement** As a programmer working for a company, I want to share my work with my coworkers so that we can work on projects together while offering feedback and comments.
 
 **Description** Coworkers should be able to work on a project together at the same time and be able to leave feedback on others’ works using the comment function.
-![mockup4](mockups/userstory4.png)
+[![Watch the video](../images/main_page_us4.png)](https://youtu.be/Gy_chZs2Iyg)
 
 
 #### UserStory 5
@@ -55,10 +55,6 @@ To restate this userstory based on the prototype design, first let me mention th
 
 **Demo**
 [![Watch the video](../images/main_page_us6.png)](https://youtu.be/bm6DTJYqnWI)
-
-
-
-
 
 
 
