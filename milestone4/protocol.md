@@ -25,11 +25,11 @@ To test the solution's effectiveness, we will conduct two following tests.
 1. The first test will have two groups of at least second-year students in college learning how to code.
 2. For the second test, we will send out emails to tech companies asking for their cooperation with the test with their programmers.
 
-### Informed consent
+#### Informed consent
 Before the tests are conducted, we will ensure that all the test subjects (students and teachers) are aware of the test and understand the purpose of the test. The test will continue for at least one semester of the academic calendar to ensure that the data collected is accurate. Throughout the testing period, we will check our tool's effectiveness by collecting test scores and project grades [[1]](#1).
 We will let them know how the testing will be done and ask volunteers to participate in our studies. The programmers who agree to participate in the survey will be divided into two groups and assigned a collaborative project. The first group will use our tool while the other group will work as they have before.
 
-### Procedure
+#### Procedure
 One group will learn how to code using our tool while the other will learn without. The reason why it is essential to have a group of students who have experience in coding for both groups is to avoid any confounding variables that might arise during the testing phase (e.g., differences in each student’s learning ability) and to measure the effectiveness of the tool by comparing test scores from the past. 
 
 
