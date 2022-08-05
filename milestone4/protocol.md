@@ -1,0 +1,45 @@
+## Testing Protocol
+
+### 1.	Testing Method
+#### 1.1	Research Question:
+Live coding for cooperative learning without true collaboration can create code cramming without understanding. Collaborative writing without history and log maintenance can cause a lack of transparency and poor engagement of collaborators. To address this problem, six user stories are defined. Including:
+1.	As a teacher, I want to be able to create a team and collaborate with my classmates in a group.
+2.	As a teacher, I want to be able to put comments for students individually or the whole class.
+3.	As a teacher, I want to see all of the student's screens and see if part of the assignment needs clarification.
+4.	As a programmer working for a company, I want to share my work with my coworkers so that we can work on projects together while offering feedback and comments.
+5.	As a student, I want to ask the teacher questions privately to resolve my issues comfortably.
+6.	As a student, I want to see my instructor's comments in real-time on my code so I can improvise my code accordingly.
+
+#### 1.2	Applicable testing methodology:
+As it is a tool that state papers use, a group of students is asked to use the tool device, and the evolution is based on the pre-test and post-test factors and results. This method is known as the experimental group testing method in some papers. Group testing is an instructional tool incorporating a group component to traditional individual testing to assess student learning. In particular, students form groups to retake or part of the exam—grades from these combined and group scores [[1]](#1).
+
+In most education settings, assessments are designed to measure a student’s mastery of materials without help from peers or other resources. As an alternative to this traditional format, a group collaboration component can be added, during which students work together to answer the same questions. Students’ final grade is a combination of individual and group test results. The key benefits of the group exam technique include:
+-	Students LEARN at the same time when they are assessed [[2,3]](#3).
+-	Students receive immediate feedback on how they did on the test
+-	Students are motivated to engage in discussion, debate, and peer-instruction activities
+-	Lower-achieving students benefit from receiving an explanation from their peers and learn from their mistakes
+-	Higher-achieving students benefit from practicing teaching to their peers and further strengthen their learning
+-	Students develop interpersonal communication skills and positive relationships with other students [[4]](#4).
+
+As a result, experiments show collaborative learning has extra features compared with traditional methods, such as a discussion environment, social interaction, and criticism opportunities, increasing students' disposition toward critical thinking. The following result showed that the collaborative process had affected the creativity component but has been affectless on the other two members, innovation and commitment. Regarding the influence of collaborative practice on creativity, it can be inferred that using the combined method increases the joy of learning in the classroom, so we can provide contexts for detecting group creativity in students [[5]](#5).
+
+
+
+### 2.	Testing Procedure
+To test the solution's effectiveness, we will conduct two different tests. The first test will have two groups of at least second-year students in college learning how to code; one group will learn how to code using our tool while the other will learn without. The reason why it is essential to have a group of students who have experience in coding for both groups is to avoid any confounding variables that might arise during the testing phase (e.g., differences in each student’s learning ability) and to measure the effectiveness of the tool by comparing test scores from the past. Before the tests are conducted, we will ensure that all the test subjects (students and teachers) are aware of the test and understand the purpose of the test. The test will continue for at least one semester of the academic calendar to ensure that the data collected is accurate. Throughout the testing period, we will check our tool's effectiveness by collecting test scores and project grades [[1]](#1).
+
+With the collected data, we can conduct an exploratory analysis; we will compare the rates of each group. We will compare both student groups' previous computer science class grades with the current ones. If the tool proves effective, the first group will improve more than the second group. One important thing to mention is that the comparison will never be made between the groups; it will only be done within the same group to assure the accuracy of our tool/testing procedure. 
+
+For the second test, we will send out emails to tech companies asking for their cooperation with the test with their programmers. We will let them know how the testing will be done and ask volunteers to participate in our studies. The programmers who agree to participate in the survey will be divided into two groups and assigned a collaborative project. The first group will use our tool while the other group will work as they have before. To measure the effectiveness of our agency, we will calculate the time taken for both groups to finish the project and ask the first group if they felt the thdeviceol was helpful. If the device proves effective, the first group’s time to complete will be shorter, and the programmers in that group will tell whether they felt better working with our tool. The pandemic will not hinder our testing procedure for both tests, as all the data and the testing can be done online. The device is a website that students and programmers can utilize for their work. Therefore, the testing procedure will be safe during the pandemic.
+
+ 
+### 2. References
+[1] https://www.kent.edu/ctl/collaborative-learning-through-group-testing.
+
+[2] Cortright, R.N., Collins, H.L., Rodenbaugh D.W., and DiCarlo, S.T. 2003. Student retention of course content is improved by collaborative‐group testing, Advan. Physiol. Edu. 27: p102‐108.
+
+[3] Gilley, B, and Clarkston, B.  2014.  Collaborative Testing: Evidence of Learning in a Controlled In-Class Study of Undergraduate Students.  J. College Science Teaching, 43 (3), p83-91.
+
+[4] Sandahl S. S. (2010) Collaborative testing as a learning strategy in nursing education. Nurs Educ Perspect., 31(3), p142-7. 
+
+[5] Karami, M., Pakmehr, H., & Aghili, A. (2012). Another view on the importance of teaching methods in the curriculum: Collaborative learning and students' critical thinking disposition. Procedia-Social and Behavioral Sciences, 46, 3266e3270.
