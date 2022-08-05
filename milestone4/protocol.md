@@ -2,18 +2,13 @@
 
 ### 1.	Testing Method
 #### 1.1	Research Question:
-Live coding for cooperative learning without true collaboration can create code cramming without understanding. Collaborative writing without history and log maintenance can cause a lack of transparency and poor engagement of collaborators. To address this problem, six user stories are defined. Including:
-1.	As a teacher, I want to be able to create a team and collaborate with my classmates in a group.
-2.	As a teacher, I want to be able to put comments for students individually or the whole class.
-3.	As a teacher, I want to see all of the student's screens and see if part of the assignment needs clarification.
-4.	As a programmer working for a company, I want to share my work with my coworkers so that we can work on projects together while offering feedback and comments.
-5.	As a student, I want to ask the teacher questions privately to resolve my issues comfortably.
-6.	As a student, I want to see my instructor's comments in real-time on my code so I can improvise my code accordingly.
+?
+
 
 #### 1.2	Applicable testing methodology:
 As it is a tool that state papers use, a group of students is asked to use the tool device, and the evolution is based on the pre-test and post-test factors and results. This method is known as the experimental group testing method in some papers. Group testing is an instructional tool incorporating a group component to traditional individual testing to assess student learning. In particular, students form groups to retake or part of the exam—grades from these combined and group scores [[1]](#1).
 
-In most education settings, assessments are designed to measure a student’s mastery of materials without help from peers or other resources. As an alternative to this traditional format, a group collaboration component can be added, during which students work together to answer the same questions. Students’ final grade is a combination of individual and group test results. The key benefits of the group exam technique include:
+**Reason** In most education settings, assessments are designed to measure a student’s mastery of materials without help from peers or other resources. As an alternative to this traditional format, a group collaboration component can be added, during which students work together to answer the same questions. Students’ final grade is a combination of individual and group test results. The key benefits of the group exam technique include:
 -	Students LEARN at the same time when they are assessed [[2,3]](#3).
 -	Students receive immediate feedback on how they did on the test
 -	Students are motivated to engage in discussion, debate, and peer-instruction activities
