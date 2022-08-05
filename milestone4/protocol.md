@@ -4,7 +4,7 @@
 #### 1.1	Research Question:
 How collaborative learning tools can affect students learning rate and what tools can assist teachers to make the goal, which is improving students learning skill , Feasible?
 
-As it is mentioned in [1] (#5), the primary purpose of a live-coding session is to teach programming as a process. This approach helps students to understand the tasks and fully Techniques needed to write a fully working program after going through multiple iterations of thinking, designing, coding, and testing. Therefore, collaborative learning can strongly affect student participation, performance, or engagement, which is not limited to students. Instructors are affected by this issue too. Because teaching performance has always been significant to instructors. While considering the importance of live coding, research shows that live coding:  
+As it is mentioned in [1](#1), the primary purpose of a live-coding session is to teach programming as a process. This approach helps students to understand the tasks and fully Techniques needed to write a fully working program after going through multiple iterations of thinking, designing, coding, and testing. Therefore, collaborative learning can strongly affect student participation, performance, or engagement, which is not limited to students. Instructors are affected by this issue too. Because teaching performance has always been significant to instructors. While considering the importance of live coding, research shows that live coding:  
   
      1. It Makes the programming process easy to understand for novice programmers.  
 
