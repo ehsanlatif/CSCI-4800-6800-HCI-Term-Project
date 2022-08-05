@@ -17,7 +17,8 @@ We have created prototypes on Figma which can be accessed by clicking [here](htt
 #### UserStory 1
 **Statement** As a teacher, I want to be able to create a team and collaborate with my classmates in a group.
 
-**Description** Teacher should be able to select a student among all students to send him a comment or send a comment to all of the students to select all or every one.  
+**Description** Teacher should be able to select a student among all students to send him a comment or send a comment to all of the students to select all or every one. 
+TO restate this userstory based on the prototype design, first let me mention the userstory's goal. The traget is, as a teacher or administrator be able to give the users hint individually if they need help or if most of them are making the same mistake be able to hint all of them. To achieve this goal there is a cooment box on the bottom of the page in the prototype by clicking on the text field admin. woul dbe able to select betwwen sending a comment to all users or just to a specific one. By selecting to every one th emessage will be sent to every one and on the comment box it is marked that the comment is being sent to everyone and by selecting to a member, th eadmin. will be able to select that specific person among all users by seeing all users and clicking on th echeckbox besides each username and then click on ok and the message will be send to that specific member. If after deciding to send a message to a specific user the admin changes his mind and rather to send the message to all he can click on the text field in the comment box again and he can click on to everyone button so the message will be send to all. This is how this userstory is implemented and how it gives the admin the oppurtunity to either send comment to individual members or to everyone. 
 [![Watch the video](../images/main_page_us1.png)](https://youtu.be/U8gTMGW_6Mw)
 
 #### UserStory 2
